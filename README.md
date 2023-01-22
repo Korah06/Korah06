@@ -1,6 +1,6 @@
 # 🏀 Korah06
 
-** `Software Developer`**
+`Software Developer`
 
 Ahora mismo soy un estudiante acabando su grado superior de Aplicaciones multiplataforma listo para darlo todo
 programando, soy extremadamente curioso sobre nuevas tecnologías, intento enterarme de lo más nuevo

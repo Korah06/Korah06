@@ -1,6 +1,6 @@
 # 💻 Korah06
 
-# Hi 👋 My name is Mario Espasa
+# <img src="https://media.giphy.com/media/kXixecGzl2gBlpO4SQ/giphy.gif?cid=ecf05e47hgfxqkm1ls53ph5k17izwa5mutteok1usxa4spgx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/> Hi 👋 My name is Mario Espasa
 
 `Mobile Developer`
 `Software Developer`

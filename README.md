@@ -3,6 +3,7 @@
 # Hi 👋 My name is Mario Espasa
 
 `Mobile Developer`
+`Software Developer`
 
 I've learning code for 3 years, I'm mainly specialized on Android development and multiplatform development
 

@@ -28,4 +28,4 @@ I have been learning code for 3 years, I am mainly specialized in Android develo
 
 <b>My LeetCode Stats</b>
 
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Korah06?theme=dark&font=Fira%20Code)
